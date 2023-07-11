@@ -1,0 +1,16 @@
+20230705	22:23:53	14209e8e-a052-48bb-a7ca-61dc0596e339	Error : Cannot set headers after they are sent to the client
+20230705	22:24:33	c1c92288-4ffe-46b6-8344-a2639865ba89	Error : Cannot set headers after they are sent to the client
+20230705	22:24:49	0a5e0bc9-8c6f-455f-a4f6-c779867b6159	Error : Cannot set headers after they are sent to the client
+20230705	22:41:27	b6afdee3-a956-435c-a11b-5929b313ff35	TypeError : res.staus is not a function
+20230705	22:42:24	c319324a-65c8-48d3-bbf6-34b4754b3007	SyntaxError : Unexpected string in JSON at position 15
+20230705	22:45:14	ba8512ec-9269-4ea8-9afc-417c5f8151b4	SyntaxError : Unexpected string in JSON at position 15
+20230705	22:46:30	88e07add-6189-4966-b359-2c28b65b8887	SyntaxError : Unexpected string in JSON at position 15
+20230705	22:47:32	5f4a9dc0-1ef9-4e4b-9953-cbb951d6fae0	SyntaxError : Unexpected string in JSON at position 15
+20230705	22:50:58	a1b542f1-cc4f-400b-8064-9c3413623843	SyntaxError : Unexpected string in JSON at position 15
+20230705	22:51:09	39ac5f5b-b4f4-46fc-846d-fba54dc40c37	SyntaxError : Unexpected string in JSON at position 15
+20230705	22:51:12	7a371de1-c32f-4788-a935-157d2bbf6317	SyntaxError : Unexpected string in JSON at position 15
+20230710	10:17:16	9b440f05-e1fa-4258-839c-006002f47a5d	TypeError : res.setStatus is not a function
+20230710	12:09:02	e96be7bb-0770-4b50-8625-3d7fbf937add	TypeError : Cannot convert undefined or null to object
+20230710	12:11:03	9351c02f-33c1-4120-be99-8048efff09b7	TypeError : Cannot convert undefined or null to object
+20230710	12:34:36	df1f3341-de24-4150-9b27-5ffba369805e	ReferenceError : tempUser is not defined
+20230711	10:10:34	7b2c5913-01da-485c-8b4b-c2b145a53573	ReferenceError : rolesArr is not defined
